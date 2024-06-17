@@ -1,0 +1,4 @@
+https://docs.render.com/deploy-django
+https://dashboard.render.com/blueprints
+https://www.freecodecamp.org/news/deploying-a-django-app-to-render/
+https://hackmd.io/@samuelmesa/postgis-render
